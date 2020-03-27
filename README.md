@@ -1,0 +1,2 @@
+# genq
+Python query builder
